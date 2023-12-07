@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             btn_fechar = new Button();
             btn_consultar = new Button();
             btn_cadastrar = new Button();
@@ -68,7 +67,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = Properties.Resources.Menu;
             ClientSize = new Size(690, 580);
             Controls.Add(btn_cadastrar);
             Controls.Add(btn_consultar);

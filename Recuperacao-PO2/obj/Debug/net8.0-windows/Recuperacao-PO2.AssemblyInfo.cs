@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recuperacao-PO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0590a9956fe9168bf769027b00714141485260")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recuperacao-PO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recuperacao-PO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

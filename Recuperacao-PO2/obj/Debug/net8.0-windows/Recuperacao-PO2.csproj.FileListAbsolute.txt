@@ -34,3 +34,4 @@ C:\Users\Gabriel\source\repos\Recuperacao-PO2\Recuperacao-PO2\obj\Debug\net8.0-w
 C:\Users\Gabriel\source\repos\Recuperacao-PO2\Recuperacao-PO2\obj\Debug\net8.0-windows\Recuperacao-PO2.pdb
 C:\Users\Gabriel\source\repos\Recuperacao-PO2\Recuperacao-PO2\obj\Debug\net8.0-windows\Recuperacao-PO2.genruntimeconfig.cache
 C:\Users\Gabriel\source\repos\Recuperacao-PO2\Recuperacao-PO2\obj\Debug\net8.0-windows\ref\Recuperacao-PO2.dll
+C:\Users\Gabriel\source\repos\Recuperacao-PO2\Recuperacao-PO2\obj\Debug\net8.0-windows\Recuperacao-PO2.sourcelink.json
